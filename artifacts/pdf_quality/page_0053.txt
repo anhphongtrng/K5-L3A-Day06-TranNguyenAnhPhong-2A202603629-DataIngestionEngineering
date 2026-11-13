@@ -1,0 +1,15 @@
+1.15 The cost of mailing a letter is a function of the weight of the letter. Suppose the cost of mailing a letter is 
+ for the first ounce and for each additional ounce. Write a piecewise-defined function describing 
+the cost as a function of the weight for where is measured in cents and is measured in 
+ounces. 
+Transformations of Functions 
+We have seen several cases in which we have added, subtracted, or multiplied constants to form variations of simple 
+functions. In the previous example, for instance, we subtracted 2 from the argument of the function to get the 
+function This subtraction represents a shift of the function two units to the right. A shift, 
+horizontally or vertically, is a type of transformation of a function. Other transformations include horizontal and 
+vertical scalings, and reflections about the axes. 
+A vertical shift of a function occurs if we add or subtract the same constant to each output For the graph of 
+ is a shift of the graph of up units, whereas the graph of is a shift of the graph of down 
+units. For example, the graph of the function is the graph of shifted up units; the graph of the 
+function is the graph of shifted down units (Figure 1.23). 
+1.2 • Basic Classes of Functions 45

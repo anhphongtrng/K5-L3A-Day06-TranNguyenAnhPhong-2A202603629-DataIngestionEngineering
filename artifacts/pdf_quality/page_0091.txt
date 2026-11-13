@@ -1,0 +1,18 @@
+b. We can simplify as follows: 
+ 1.28 Use the laws of exponents to simplify 
+The Number e 
+A special type of exponential function appears frequently in real-world applications. To describe it, consider the following 
+example of exponential growth, which arises from compounding interest in a savings account. Suppose a person invests 
+ dollars in a savings account with an annual interest rate compounded annually. The amount of money after 1 year is 
+The amount of money after years is 
+More generally, the amount after years is 
+If the money is compounded 2 times per year, the amount of money after half a year is 
+The amount of money after year is 
+After years, the amount of money in the account is 
+More generally, if the money is compounded times per year, the amount of money in the account after years is given 
+by the function 
+What happens as ∞ To answer this question, we let and write 
+and examine the behavior of as ∞ using a table of values (Table 1.12). 
+Table 1.12 Values of as ∞
+Looking at this table, it appears that is approaching a number between and as ∞ In fact, 
+1.5 • Exponential and Logarithmic Functions 83

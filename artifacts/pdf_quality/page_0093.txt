@@ -1,0 +1,16 @@
+The exponential function is one-to-one, with domain ∞ ∞ and range ∞ Therefore, it has an inverse 
+function, called the logarithmic function with base For any the logarithmic function with base b, denoted 
+ has domain ∞ and range ∞ ∞ and satisfies 
+For example, 
+Furthermore, since and are inverse functions, 
+The most commonly used logarithmic function is the function Since this function uses natural as its base, it is 
+called the natural logarithm. Here we use the notation or to mean For example, 
+Since the functions and are inverses of each other, 
+and their graphs are symmetric about the line (Figure 1.46). 
+Figure 1.46 The functions and are inverses of each other, so their graphs are symmetric about the line 
+ MEDIA 
+At this site (http://www.openstax.org/l/20_logscale) you can see an example of a base-10 logarithmic scale. 
+In general, for any base the function is symmetric about the line with the function 
+ Using this fact and the graphs of the exponential functions, we graph functions for several values of 
+ (Figure 1.47). 
+1.5 • Exponential and Logarithmic Functions 85

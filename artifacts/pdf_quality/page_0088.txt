@@ -1,0 +1,31 @@
+1.5 Exponential and Logarithmic Functions 
+Learning Objectives 
+1.5.1 Identify the form of an exponential function. 
+1.5.2 Explain the difference between the graphs of and 
+1.5.3 Recognize the significance of the number 
+1.5.4 Identify the form of a logarithmic function. 
+1.5.5 Explain the relationship between exponential and logarithmic functions. 
+1.5.6 Describe how to calculate a logarithm to a different base. 
+1.5.7 Identify the hyperbolic functions, their graphs, and basic identities. 
+In this section we examine exponential and logarithmic functions. We use the properties of these functions to solve 
+equations involving exponential or logarithmic terms, and we study the meaning and importance of the number We 
+also define hyperbolic and inverse hyperbolic functions, which involve combinations of exponential and logarithmic 
+functions. (Note that we present alternative definitions of exponential and logarithmic functions in the chapter 
+Applications of Integrations, and prove that the functions have the same properties with either definition.) 
+Exponential Functions 
+Exponential functions arise in many applications. One common example is population growth. 
+For example, if a population starts with individuals and then grows at an annual rate of its population after 1 year 
+is 
+Its population after 2 years is 
+In general, its population after years is 
+which is an exponential function. More generally, any function of the form where is an 
+exponential function with base and exponent x. Exponential functions have constant bases and variable exponents. 
+Note that a function of the form for some constant is not an exponential function but a power function. 
+To see the difference between an exponential function and a power function, we compare the functions and 
+ In Table 1.10, we see that both and approach infinity as ∞ Eventually, however, becomes larger 
+than and grows more rapidly as ∞ In the opposite direction, as ∞ ∞ whereas The line 
+ is a horizontal asymptote for 
+Table 1.10 Values of and 
+In Figure 1.43, we graph both and to show how the graphs differ. 
+80 1 • Functions and Graphs
+Access for free at openstax.org

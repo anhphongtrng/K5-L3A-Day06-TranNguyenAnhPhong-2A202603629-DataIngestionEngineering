@@ -1,0 +1,25 @@
+Figure 1.27 (a) The graph of is the graph of reflected about the -axis. (b) The graph of is 
+the graph of reflected about the 
+-axis. 
+If the graph of a function consists of more than one transformation of another graph, it is important to transform the 
+graph in the correct order. Given a function the graph of the related function can be obtained 
+from the graph of by performing the transformations in the following order. 
+1. Horizontal shift of the graph of If shift left. If shift right. 
+2. Horizontal scaling of the graph of by a factor of If reflect the graph about the -axis. 
+3. Vertical scaling of the graph of by a factor of If reflect the graph about the -axis. 
+4. Vertical shift of the graph of If shift up. If shift down. 
+We can summarize the different transformations and their related effects on the graph of a function in the following 
+table. 
+Transformation of Effect on the graph of 
+Vertical shift up units 
+Vertical shift down units 
+Shift left by units 
+Shift right by units 
+Vertical stretch if 
+vertical compression if 
+Horizontal stretch if horizontal compression if 
+Reflection about the -axis 
+Reflection about the -axis 
+Table 1.7 Transformations of Functions 
+48 1 • Functions and Graphs
+Access for free at openstax.org

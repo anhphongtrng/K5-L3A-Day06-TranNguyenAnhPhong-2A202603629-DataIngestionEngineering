@@ -1,0 +1,31 @@
+MEDIA 
+Go to the following site (http://www.openstax.org/l/20_inversefun) for more comparisons of functions and their 
+inverses. 
+When evaluating an inverse trigonometric function, the output is an angle. For example, to evaluate we need 
+to find an angle such that Clearly, many angles have this property. However, given the definition of 
+we need the angle that not only solves this equation, but also lies in the interval We conclude that 
+We now consider a composition of a trigonometric function and its inverse. For example, consider the two expressions 
+ and For the first one, we simplify as follows: 
+For the second one, we have 
+The inverse function is supposed to “undo” the original function, so why isn’t Recalling our definition 
+of inverse functions, a function and its inverse satisfy the conditions for all in the domain of 
+ and for all in the domain of so what happened here? The issue is that the inverse sine function, 
+ is the inverse of the restricted sine function defined on the domain Therefore, for in the interval 
+ it is true that However, for values of outside this interval, the equation does not hold, even 
+though is defined for all real numbers 
+What about Does that have a similar issue? The answer is no. Since the domain of is the interval 
+ we conclude that if and the expression is not defined for other values of To 
+summarize, 
+and 
+Similarly, for the cosine function, 
+and 
+Similar properties hold for the other trigonometric functions and their inverses. 
+EXAMPLE 1.32 
+Evaluating Expressions Involving Inverse Trigonometric Functions 
+Evaluate each of the following expressions. 
+a. 
+b. 
+c. 
+d. 
+74 1 • Functions and Graphs
+Access for free at openstax.org

@@ -1,0 +1,16 @@
+Figure 1.22 This piecewise-defined function is linear for and quadratic for 
+ 1.14 Sketch a graph of the function 
+EXAMPLE 1.20 
+Parking Fees Described by a Piecewise-Defined Function 
+In a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or 
+any part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The 
+parking garage is open from 6 a.m. to 12 midnight. 
+a. Write a piecewise-defined function that describes the cost to park in the parking garage as a function of hours 
+parked 
+b. Sketch a graph of this function 
+Solution 
+a. Since the parking garage is open 18 hours each day, the domain for this function is The cost to 
+park a car at this parking garage can be described piecewise by the function 
+b. The graph of the function consists of several horizontal line segments. 
+44 1 • Functions and Graphs
+Access for free at openstax.org

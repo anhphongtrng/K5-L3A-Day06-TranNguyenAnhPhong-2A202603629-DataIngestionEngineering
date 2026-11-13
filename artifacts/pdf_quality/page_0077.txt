@@ -1,0 +1,34 @@
+Finding a Function’s Inverse 
+We can now consider one-to-one functions and show how to find their inverses. Recall that a function maps elements in 
+the domain of to elements in the range of The inverse function maps each element from the range of back to its 
+corresponding element from the domain of Therefore, to find the inverse function of a one-to-one function given 
+any in the range of we need to determine which in the domain of satisfies Since is one-to-one, there 
+is exactly one such value We can find that value by solving the equation for Doing so, we are able to 
+write as a function of where the domain of this function is the range of and the range of this new function is the 
+domain of Consequently, this function is the inverse of and we write Since we typically use the variable 
+ to denote the independent variable and to denote the dependent variable, we often interchange the roles of and 
+and write Representing the inverse function in this way is also helpful later when we graph a function and 
+its inverse on the same axes. 
+Problem-Solving Strategy 
+Finding an Inverse Function 
+1. Solve the equation for 
+2. Interchange the variables and and write 
+EXAMPLE 1.29 
+Finding an Inverse Function 
+Find the inverse for the function State the domain and range of the inverse function. Verify that 
+Solution 
+Follow the steps outlined in the strategy. 
+Step 1. If then and 
+Step 2. Rewrite as and let 
+Therefore, 
+Since the domain of is ∞ ∞ the range of is ∞ ∞ Since the range of is ∞ ∞ the domain of is 
+∞ ∞
+You can verify that by writing 
+Note that for to be the inverse of both and for all x in the domain of the 
+inside function. 
+ 1.24 Find the inverse of the function State the domain and range of the inverse function. 
+Graphing Inverse Functions 
+Let’s consider the relationship between the graph of a function and the graph of its inverse. Consider the graph of 
+shown in Figure 1.39 and a point on the graph. Since then Therefore, when we graph 
+the point is on the graph. As a result, the graph of is a reflection of the graph of about the line 
+1.4 • Inverse Functions 69

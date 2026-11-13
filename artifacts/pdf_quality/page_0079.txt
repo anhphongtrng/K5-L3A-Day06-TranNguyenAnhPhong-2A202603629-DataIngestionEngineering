@@ -1,0 +1,24 @@
+1.25 Sketch the graph of and the graph of its inverse using the symmetry property of inverse 
+functions. 
+Restricting Domains 
+As we have seen, does not have an inverse function because it is not one-to-one. However, we can choose a 
+subset of the domain of such that the function is one-to-one. This subset is called a restricted domain. By restricting 
+the domain of we can define a new function such that the domain of is the restricted domain of and 
+for all in the domain of Then we can define an inverse function for on that domain. For example, since is 
+one-to-one on the interval ∞ we can define a new function such that the domain of is ∞ and for all 
+ in its domain. Since is a one-to-one function, it has an inverse function, given by the formula On the 
+other hand, the function is also one-to-one on the domain ∞ Therefore, we could also define a new 
+function such that the domain of is ∞ and for all in the domain of Then is a one-to-one 
+function and must also have an inverse. Its inverse is given by the formula (Figure 1.40). 
+Figure 1.40 (a) For restricted to ∞ (b) For restricted to 
+∞
+EXAMPLE 1.31 
+Restricting the Domain 
+Consider the function 
+a. Sketch the graph of and use the horizontal line test to show that is not one-to-one. 
+b. Show that is one-to-one on the restricted domain ∞ Determine the domain and range for the inverse of 
+on this restricted domain and find a formula for 
+Solution 
+a. The graph of is the graph of shifted left 1 unit. Since there exists a horizontal line intersecting the graph 
+more than once, is not one-to-one. 
+1.4 • Inverse Functions 71

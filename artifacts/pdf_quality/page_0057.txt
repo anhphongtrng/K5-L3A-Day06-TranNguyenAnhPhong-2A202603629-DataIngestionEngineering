@@ -1,0 +1,13 @@
+EXAMPLE 1.21 
+Transforming a Function 
+For each of the following functions, a. and b., sketch a graph by using a sequence of transformations of a well-known 
+function. 
+a. 
+b. 
+Solution 
+a. Starting with the graph of shift units to the left, reflect about the -axis, and then shift down 3 units. 
+Figure 1.28 The function can be viewed as a sequence of three transformations of the function 
+b. Starting with the graph of reflect about the -axis, stretch the graph vertically by a factor of 3, and move up 
+1 unit. 
+Figure 1.29 The function can be viewed as a sequence of three transformations of the function 
+1.2 • Basic Classes of Functions 49

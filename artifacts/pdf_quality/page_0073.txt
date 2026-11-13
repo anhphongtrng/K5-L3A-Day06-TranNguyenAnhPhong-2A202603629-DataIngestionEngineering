@@ -1,0 +1,77 @@
+179 . [T] An alternating current 
+for outlets in a home has 
+voltage given by the 
+function 
+where V is the voltage in 
+volts at time t in seconds. 
+a. Find the period of the 
+function and interpret 
+its meaning. 
+b. Determine the number 
+of periods that occur 
+when 1 sec has 
+passed. 
+ 180 . [T] The number of hours of 
+daylight in a northeast city is 
+modeled by the function 
+where t is the number of days 
+after January 1. 
+a. Find the amplitude and 
+period. 
+b. Determine the number of 
+hours of daylight on the 
+longest day of the year. 
+c. Determine the number of 
+hours of daylight on the 
+shortest day of the year. 
+d. Determine the number of 
+hours of daylight 90 days 
+after January 1. 
+e. Sketch the graph of the 
+function for one period 
+starting on January 1. 
+ 181 . [T] Suppose that 
+is a mathematical model of 
+the temperature (in 
+degrees Fahrenheit) at t 
+hours after midnight on a 
+certain day of the week. 
+a. Determine the 
+amplitude and period. 
+b. Find the temperature 7 
+hours after midnight. 
+c. At what time does 
+d. Sketch the graph of 
+over 
+182 . [T] The function 
+ models 
+the height H (in feet) of 
+the tide t hours after 
+midnight. Assume that 
+ is midnight. 
+a. Find the amplitude 
+and period. 
+b. Graph the function 
+over one period. 
+c. What is the height of 
+the tide at 4:30 a.m.? 
+1.4 Inverse Functions 
+Learning Objectives 
+1.4.1 Determine the conditions for when a function has an inverse. 
+1.4.2 Use the horizontal line test to recognize when a function is one-to-one. 
+1.4.3 Find the inverse of a given function. 
+1.4.4 Draw the graph of an inverse function. 
+1.4.5 Evaluate inverse trigonometric functions. 
+An inverse function reverses the operation done by a particular function. In other words, whatever a function does, the 
+inverse function undoes it. In this section, we define an inverse function formally and state the necessary conditions for 
+an inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of 
+a function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse 
+trigonometric functions. 
+Existence of an Inverse Function 
+We begin with an example. Given a function and an output we are often interested in finding what value or 
+values were mapped to by For example, consider the function Since any output we can 
+solve this equation for to find that the input is This equation defines as a function of Denoting this 
+function as and writing we see that for any in the domain of 
+ Thus, this new function, “undid” what the original function did. A function 
+with this property is called the inverse function of the original function. 
+1.4 • Inverse Functions 65

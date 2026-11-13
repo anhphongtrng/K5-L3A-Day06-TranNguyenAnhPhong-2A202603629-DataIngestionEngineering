@@ -1,0 +1,21 @@
+Consider an earthquake that measures 8 on the Richter scale and an earthquake that measures 7 on the Richter scale. 
+Then, 
+Therefore, 
+which implies or Since is 10 times the size of we say that the first earthquake is 10 
+times as intense as the second earthquake. On the other hand, if one earthquake measures 8 on the Richter scale and 
+another measures 6, then the relative intensity of the two earthquakes satisfies the equation 
+Therefore, That is, the first earthquake is 100 times more intense than the second earthquake. 
+How can we use logarithmic functions to compare the relative severity of the magnitude 9 earthquake in Japan in 2011 
+with the magnitude 7.3 earthquake in Haiti in 2010? 
+Solution 
+To compare the Japan and Haiti earthquakes, we can use an equation presented earlier: 
+Therefore, and we conclude that the earthquake in Japan was approximately times more intense than 
+the earthquake in Haiti. 
+ 1.33 Compare the relative severity of a magnitude earthquake with a magnitude earthquake. 
+Hyperbolic Functions 
+The hyperbolic functions are defined in terms of certain combinations of and These functions arise naturally in 
+various engineering and physics applications, including the study of water waves and vibrations of elastic membranes. 
+Another common use for a hyperbolic function is the representation of a hanging chain or cable, also known as a 
+catenary (Figure 1.49). If we introduce a coordinate system so that the low point of the chain lies along the -axis, we can 
+describe the height of the chain in terms of a hyperbolic function. First, we define the hyperbolic functions. 
+1.5 • Exponential and Logarithmic Functions 89

@@ -1,0 +1,55 @@
+197 . 
+ 198 . 
+For the following exercises, use composition to determine which pairs of functions are inverses. 
+199 . 200 . 201 . 
+202 . 203 . 
+204 . 205 . 
+206 . 
+For the following exercises, evaluate the functions. Give the exact value. 
+207 . 208 . 209 . 
+210 . 211 . 212 . 
+213 . 214 . 215 . 
+216 . The function 
+converts degrees 
+Fahrenheit to degrees 
+Celsius. 
+a. Find the inverse 
+function 
+b. What is the inverse 
+function used for? 
+ 217 . [T] The velocity V (in 
+centimeters per second) of 
+blood in an artery at a 
+distance x cm from the 
+center of the artery can be 
+modeled by the function 
+for 
+a. Find 
+b. Interpret what the 
+inverse function is used 
+for. 
+c. Find the distance from 
+the center of an artery 
+with a velocity of 15 cm/
+sec, 10 cm/sec, and 5 
+cm/sec. 
+ 218 . A function that converts 
+dress sizes in the United 
+States to those in Europe 
+is given by 
+a. Find the European 
+dress sizes that 
+correspond to sizes 6, 
+8, 10, and 12 in the 
+United States. 
+b. Find the function that 
+converts European 
+dress sizes to U.S. 
+dress sizes. 
+c. Use part b. to find the 
+dress sizes in the 
+United States that 
+correspond to 46, 52, 
+62, and 70. 
+78 1 • Functions and Graphs
+Access for free at openstax.org

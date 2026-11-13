@@ -1,0 +1,18 @@
+Solution 
+We start with the identity 
+Dividing both sides of this equation by we obtain 
+Since and we conclude that 
+ 1.21 Prove the trigonometric identity 
+Graphs and Periods of the Trigonometric Functions 
+We have seen that as we travel around the unit circle, the values of the trigonometric functions repeat. We can see this 
+pattern in the graphs of the functions. Let be a point on the unit circle and let be the corresponding angle 
+Since the angle and correspond to the same point the values of the trigonometric functions at and at 
+ are the same. Consequently, the trigonometric functions are periodic functions. The period of a function is 
+defined to be the smallest positive value such that for all values in the domain of The sine, cosine, 
+secant, and cosecant functions have a period of Since the tangent and cotangent functions repeat on an interval of 
+length their period is (Figure 1.34). 
+Figure 1.34 The six trigonometric functions are periodic. 
+Just as with algebraic functions, we can apply transformations to trigonometric functions. In particular, consider the 
+following function: 
+60 1 • Functions and Graphs
+Access for free at openstax.org

@@ -1,0 +1,30 @@
+Since an angle of corresponds to the circumference of a circle, or an arc of length we conclude that an angle 
+with a degree measure of has a radian measure of Similarly, we see that is equivalent to radians. Table 
+1.8 shows the relationship between common degree and radian values. 
+Degrees Radians Degrees Radians 
+0 0 120 
+30 135 
+45 150 
+60 180 
+90 
+Table 1.8 Common Angles Expressed in 
+Degrees and Radians 
+EXAMPLE 1.22 
+Converting between Radians and Degrees 
+a. Express using radians. 
+b. Express rad using degrees. 
+Solution 
+Use the fact that is equivalent to radians as a conversion factor: 
+a. rad 
+b. rad = 
+ 1.17 Express using radians. Express rad using degrees. 
+The Six Basic Trigonometric Functions 
+Trigonometric functions allow us to use angle measures, in radians or degrees, to find the coordinates of a point on any 
+circle—not only on a unit circle—or to find an angle given a point on a circle. They also define the relationship among the 
+sides and angles of a triangle. 
+To define the trigonometric functions, first consider the unit circle centered at the origin and a point on the 
+unit circle. Let be an angle with an initial side that lies along the positive -axis and with a terminal side that is the line 
+segment An angle in this position is said to be in standard position (Figure 1.31). We can then define the values of 
+the six trigonometric functions for in terms of the coordinates and 
+54 1 • Functions and Graphs
+Access for free at openstax.org

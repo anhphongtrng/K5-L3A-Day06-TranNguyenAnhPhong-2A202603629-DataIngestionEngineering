@@ -1,0 +1,44 @@
+For the following exercises, use the graph of to graph each transformed function 
+ 92 . 
+93 . 
+For the following exercises, for each of the piecewise-defined functions, a. evaluate at the given values of the 
+independent variable and b. sketch the graph. 
+94 . 95 . 
+96 . 97 . 
+For the following exercises, determine whether the statement is true or false. Explain why. 
+98 . is 
+a transcendental function. 
+ 99 . is an odd root 
+function 
+ 100 . A logarithmic function is 
+an algebraic function. 
+101 . A function of the form 
+ where is a 
+real valued constant, is an 
+exponential function. 
+ 102 . The domain of an even 
+root function is all real 
+numbers. 
+ 103 . [T] A company purchases 
+some computer 
+equipment for $20,500. At 
+the end of a 3-year 
+period, the value of the 
+equipment has decreased 
+linearly to $12,300. 
+a. Find a function 
+ that 
+determines the value V 
+of the equipment at 
+the end of t years. 
+b. Find and interpret the 
+meaning of the - and 
+-intercepts for this 
+situation. 
+c. What is the value of 
+the equipment at the 
+end of 5 years? 
+d. When will the value of 
+the equipment be 
+$3000? 
+1.2 • Basic Classes of Functions 51

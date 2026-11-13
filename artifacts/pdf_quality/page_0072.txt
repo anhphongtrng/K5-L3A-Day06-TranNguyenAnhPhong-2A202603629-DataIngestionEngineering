@@ -1,0 +1,72 @@
+165 . 
+ 166 . 
+For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function. 
+167 . 168 . 169 . 
+170 . 171 . 172 . 
+173 . [T] The diameter of a 
+wheel rolling on the 
+ground is 40 in. If the 
+wheel rotates through an 
+angle of how many 
+inches does it move? 
+Approximate to the 
+nearest whole inch. 
+ 174 . [T] Find the length of the 
+arc intercepted by central 
+angle in a circle of 
+radius r. Round to the 
+nearest hundredth. 
+a. cm, 
+rad b. cm, 
+ rad c. 
+cm, d. 
+cm, 
+ 175 . [T] As a point P moves 
+around a circle, the 
+measure of the angle 
+changes. The measure of 
+how fast the angle is 
+changing is called angular 
+speed, and is given by 
+ where is in 
+radians and t is time. Find 
+the angular speed for the 
+given data. Round to the 
+nearest thousandth. 
+a. sec 
+b. sec c. 
+ min d. 
+ min 
+176 . [T] A total of 250,000 m2 
+of land is needed to build 
+a nuclear power plant. 
+Suppose it is decided that 
+the area on which the 
+power plant is to be built 
+should be circular. 
+a. Find the radius of the 
+circular land area. 
+b. If the land area is to 
+form a sector of a 
+circle instead of a 
+whole circle, find the 
+length of the curved 
+side. 
+ 177 . [T] The area of an 
+isosceles triangle with 
+equal sides of length x is 
+where is the angle 
+formed by the two sides. 
+Find the area of an 
+isosceles triangle with 
+equal sides of length 8 in. 
+and angle rad. 
+ 178 . [T] A particle travels in a 
+circular path at a constant 
+angular speed The 
+angular speed is modeled 
+by the function 
+Determine the angular 
+speed at sec. 
+64 1 • Functions and Graphs
+Access for free at openstax.org

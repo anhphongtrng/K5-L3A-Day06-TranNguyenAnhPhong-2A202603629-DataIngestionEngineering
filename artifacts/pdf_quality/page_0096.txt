@@ -1,0 +1,30 @@
+2. for any real number 
+If this equation reduces to 
+Proof 
+For the first change-of-base formula, we begin by making use of the power property of logarithmic functions. We know 
+that for any base Therefore, 
+In addition, we know that and are inverse functions. Therefore, 
+Combining these last two equalities, we conclude that 
+To prove the second property, we show that 
+Let and We will show that By the definition of logarithmic functions, we 
+know that and From the previous equations, we see that 
+Therefore, Since exponential functions are one-to-one, we can conclude that 
+□ 
+EXAMPLE 1.38 
+Changing Bases 
+Use a calculating utility to evaluate with the change-of-base formula presented earlier. 
+Solution 
+Use the second equation with and 
+ 1.32 Use the change-of-base formula and a calculating utility to evaluate 
+EXAMPLE 1.39 
+Chapter Opener: The Richter Scale for Earthquakes 
+Figure 1.48 (credit: modification of work by Robb Hannawacker, NPS) 
+In 1935, Charles Richter developed a scale (now known as the Richter scale) to measure the magnitude of an earthquake. 
+The scale is a base-10 logarithmic scale, and it can be described as follows: Consider one earthquake with magnitude 
+on the Richter scale and a second earthquake with magnitude on the Richter scale. Suppose which means 
+the earthquake of magnitude is stronger, but how much stronger is it than the other earthquake? A way of 
+measuring the intensity of an earthquake is by using a seismograph to measure the amplitude of the earthquake waves. 
+If is the amplitude measured for the first earthquake and is the amplitude measured for the second earthquake, 
+then the amplitudes and magnitudes of the two earthquakes satisfy the following equation: 
+88 1 • Functions and Graphs
+Access for free at openstax.org

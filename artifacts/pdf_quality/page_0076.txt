@@ -1,0 +1,7 @@
+Solution 
+a. Since the horizontal line for any integer intersects the graph more than once, this function is not one-to-
+one. 
+b. Since every horizontal line intersects the graph once (at most), this function is one-to-one. 
+ 1.23 Is the function graphed in the following image one-to-one? 
+68 1 • Functions and Graphs
+Access for free at openstax.org

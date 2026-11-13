@@ -1,0 +1,15 @@
+Table 1.9 Values of 
+ and at 
+Major Angles in 
+the First Quadrant 
+EXAMPLE 1.23 
+Evaluating Trigonometric Functions 
+Evaluate each of the following expressions. 
+a. 
+b. 
+c. 
+Solution 
+a. On the unit circle, the angle corresponds to the point Therefore, 
+b. An angle corresponds to a revolution in the negative direction, as shown. Therefore, 
+56 1 • Functions and Graphs
+Access for free at openstax.org
