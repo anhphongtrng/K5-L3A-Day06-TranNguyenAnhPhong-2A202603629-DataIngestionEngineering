@@ -7,7 +7,7 @@ from pathlib import Path
 from pypdf import PdfReader
 
 
-# Đường dẫn theo cấu trúc repository của bạn
+# Đường dẫn theo cấu trúc repository
 PROJECT_DIR = Path(
     r"D:\Work\VinAI\Lab05\K5-L3A-Day06-TranNguyenAnhPhong-2A202603629-DataIngestionEngineering"
 )

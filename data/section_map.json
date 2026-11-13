@@ -1,0 +1,88 @@
+{
+  "source_id": "openstax_calculus_v1",
+  "page_numbering": "physical_pdf_page_1_based",
+  "page_range": {
+    "start": 51,
+    "end": 100
+  },
+  "section_titles": {
+    "1.2": "Basic Classes of Functions",
+    "1.3": "Trigonometric Functions",
+    "1.4": "Inverse Functions",
+    "1.5": "Exponential and Logarithmic Functions"
+  },
+  "page_sections": {
+    "51": "1.2",
+    "52": "1.2",
+    "53": "1.2",
+    "54": "1.2",
+    "55": "1.2",
+    "56": "1.2",
+    "57": "1.2",
+    "58": "1.2",
+    "59": "1.2",
+    "60": "1.2",
+    "61": [
+      "1.2",
+      "1.3"
+    ],
+    "62": "1.3",
+    "63": "1.3",
+    "64": "1.3",
+    "65": "1.3",
+    "66": "1.3",
+    "67": "1.3",
+    "68": "1.3",
+    "69": "1.3",
+    "70": "1.3",
+    "71": "1.3",
+    "72": "1.3",
+    "73": [
+      "1.3",
+      "1.4"
+    ],
+    "74": "1.4",
+    "75": "1.4",
+    "76": "1.4",
+    "77": "1.4",
+    "78": "1.4",
+    "79": "1.4",
+    "80": "1.4",
+    "81": "1.4",
+    "82": "1.4",
+    "83": "1.4",
+    "84": "1.4",
+    "85": "1.4",
+    "86": "1.4",
+    "87": "1.4",
+    "88": "1.5",
+    "89": "1.5",
+    "90": "1.5",
+    "91": "1.5",
+    "92": "1.5",
+    "93": "1.5",
+    "94": "1.5",
+    "95": "1.5",
+    "96": "1.5",
+    "97": "1.5",
+    "98": "1.5",
+    "99": "1.5",
+    "100": "1.5"
+  },
+  "mixed_section_pages": {
+    "61": {
+      "before_heading": "1.2",
+      "after_heading": "1.3",
+      "heading": "1.3 Trigonometric Functions",
+      "note": "Split chunks at this heading; the preceding exercises belong to 1.2"
+    },
+    "73": {
+      "before_heading": "1.3",
+      "after_heading": "1.4",
+      "heading": "1.4 Inverse Functions",
+      "note": "Split chunks at this heading; the preceding exercises belong to 1.3"
+    }
+  },
+  "metadata_guidance": "When page_sections[page] is an array, assign section at chunk level by splitting at the specified section heading; never store array as a scalar section filter.",
+  "verification_basis": "Extracted page_0051.txt through page_0100.txt from project GitHub; check against local PDF if layout-sensitive."
+}
