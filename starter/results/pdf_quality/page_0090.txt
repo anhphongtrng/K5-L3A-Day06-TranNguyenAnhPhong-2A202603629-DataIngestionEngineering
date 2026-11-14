@@ -1,0 +1,29 @@
+MEDIA 
+Go to Population Balance (http://www.openstax.org/l/20_exponengrow) for another example of exponential 
+population growth. 
+Graphing Exponential Functions 
+For any base the exponential function is defined for all real numbers and Therefore, 
+the domain of is ∞ ∞ and the range is ∞ To graph we note that for is increasing on 
+∞ ∞ and ∞ as ∞ whereas as ∞ On the other hand, if is decreasing 
+on ∞ ∞ and as ∞ whereas ∞ as ∞ (Figure 1.44). 
+Figure 1.44 If then is increasing on ∞ ∞ If then is decreasing on ∞ ∞
+ MEDIA 
+Visit this site (http://www.openstax.org/l/20_inverse) for more exploration of the graphs of exponential functions. 
+Note that exponential functions satisfy the general laws of exponents. To remind you of these laws, we state them as 
+rules. 
+Rule: Laws of Exponents 
+For any constants and for all x and y, 
+1. 
+2. 
+3. 
+4. 
+5. 
+EXAMPLE 1.34 
+Using the Laws of Exponents 
+Use the laws of exponents to simplify each of the following expressions. 
+a. 
+b. 
+Solution 
+a. We can simplify as follows: 
+82 1 • Functions and Graphs
+Access for free at openstax.org

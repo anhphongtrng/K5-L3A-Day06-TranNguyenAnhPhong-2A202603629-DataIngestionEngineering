@@ -1,0 +1,18 @@
+Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of 
+ is a vertical compression of the graph of 
+The horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph 
+of the function is the graph of scaled horizontally by a factor of If the graph of is the graph of 
+ compressed horizontally. If the graph of is the graph of stretched horizontally. For example, 
+consider the function and evaluate at Since the graph of is the graph of 
+ compressed horizontally. The graph of is a horizontal stretch of the graph of (Figure 1.26). 
+Figure 1.26 (a) If the graph of is a horizontal compression of the graph of (b) If the 
+graph of is a horizontal stretch of the graph of 
+We have explored what happens to the graph of a function when we multiply by a constant to get a new 
+function We have also discussed what happens to the graph of a function when we multiply the independent 
+variable by to get a new function However, we have not addressed what happens to the graph of the 
+function if the constant is negative. If we have a constant we can write c as a positive number multiplied by 
+but, what kind of transformation do we get when we multiply the function or its argument by When we multiply all 
+the outputs by we get a reflection about the -axis. When we multiply all inputs by we get a reflection about the 
+-axis. For example, the graph of is the graph of reflected about the -axis. The graph of 
+ is the graph of reflected about the -axis (Figure 1.27). 
+1.2 • Basic Classes of Functions 47

@@ -1,0 +1,33 @@
+1.16 Describe how the function can be graphed using the graph of and a 
+sequence of transformations. 
+ SECTION 1.2 EXERCISES 
+For the following exercises, for each pair of points, a. find the slope of the line passing through the points and b. indicate 
+whether the line is increasing, decreasing, horizontal, or vertical. 
+59 . and 60 . and 61 . and 
+62 . and 63 . and 64 . and 
+65 . and 66 . and 
+For the following exercises, write the equation of the line satisfying the given conditions in slope-intercept form. 
+67 . Slope passes 
+through 
+ 68 . Slope passes through 69 . Slope passes through 
+70 . Slope -intercept 71 . Passing through and 72 . Passing through 
+and 
+73 . -intercept and 
+-intercept 
+ 74 . -intercept and 
+-intercept 
+For the following exercises, for each linear equation, a. give the slope and -intercept b, if any, and b. graph the line. 
+75 . 76 . 77 . 
+78 . 79 . 80 . 
+81 . 82 . 
+For the following exercises, for each polynomial, a. find the degree; b. find the zeros, if any; c. find the -intercept(s), if 
+any; d. use the leading coefficient to determine the graph’s end behavior; and e. determine algebraically whether the 
+polynomial is even, odd, or neither. 
+83 . 84 . 85 . 
+86 . 87 . 
+For the following exercises, use the graph of to graph each transformed function 
+88 . 89 . 
+For the following exercises, use the graph of to graph each transformed function 
+90 . 91 . 
+50 1 • Functions and Graphs
+Access for free at openstax.org

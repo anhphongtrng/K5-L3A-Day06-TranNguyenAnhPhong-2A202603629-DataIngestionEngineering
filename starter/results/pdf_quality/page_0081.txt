@@ -1,0 +1,15 @@
+Definition 
+The inverse sine function, denoted or arcsin, and the inverse cosine function, denoted or arccos, are 
+defined on the domain as follows: 
+(1.12) 
+The inverse tangent function, denoted or arctan, and inverse cotangent function, denoted or arccot, are 
+defined on the domain ∞ ∞ as follows: 
+(1.13) 
+The inverse cosecant function, denoted or arccsc, and inverse secant function, denoted or arcsec, are 
+defined on the domain as follows: 
+(1.14) 
+To graph the inverse trigonometric functions, we use the graphs of the trigonometric functions restricted to the domains 
+defined earlier and reflect the graphs about the line (Figure 1.41). 
+Figure 1.41 The graph of each of the inverse trigonometric functions is a reflection about the line of the 
+corresponding restricted trigonometric function. 
+1.4 • Inverse Functions 73

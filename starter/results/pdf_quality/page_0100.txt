@@ -1,0 +1,17 @@
+Figure 1.51 The hyperbolic functions involve combinations of and 
+Identities Involving Hyperbolic Functions 
+The identity shown in Figure 1.50, is one of several identities involving the hyperbolic functions, some of 
+which are listed next. The first four properties follow easily from the definitions of hyperbolic sine and hyperbolic cosine. 
+Except for some differences in signs, most of these properties are analogous to identities for trigonometric functions. 
+Rule: Identities Involving Hyperbolic Functions 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+92 1 • Functions and Graphs
+Access for free at openstax.org

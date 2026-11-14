@@ -1,0 +1,19 @@
+Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For 
+the graph of is a vertical shift down units of the graph of 
+A horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of 
+ is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right 
+units. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this 
+question, let’s look at an example. 
+Consider the function and evaluate this function at Since and the graph 
+of is the graph of shifted left 3 units. Similarly, the graph of is the graph of 
+shifted right units (Figure 1.24). 
+Figure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For 
+the graph of is a horizontal shift right units of the graph of 
+A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the 
+graph of the function is the graph of scaled vertically by a factor of If the values of the outputs for 
+the function are larger than the values of the outputs for the function therefore, the graph has been 
+stretched vertically. If then the outputs of the function are smaller, so the graph has been compressed. 
+For example, the graph of the function is the graph of stretched vertically by a factor of 3, whereas 
+the graph of is the graph of compressed vertically by a factor of (Figure 1.25). 
+46 1 • Functions and Graphs
+Access for free at openstax.org

@@ -1,0 +1,84 @@
+{
+  "generated_at_utc": "2026-11-13T16:21:46.068431+00:00",
+  "split": "test",
+  "benchmark_file": "starter/benchmark/benchmark_calculus_v1.json",
+  "embedding_model": "BAAI/bge-m3",
+  "embedding_dimensions": 1024,
+  "retrieval_top_k": 3,
+  "search_metric": "pgvector cosine similarity",
+  "C_without_filter_behavior": "same search as B with no filter",
+  "query_embedding_total_seconds": 0.396,
+  "strategies": {
+    "A": {
+      "questions": 5,
+      "hit_at_1_strict": {
+        "numerator": 3,
+        "denominator": 5,
+        "rate": 0.6
+      },
+      "evidence_hit_at_3_strict": {
+        "numerator": 5,
+        "denominator": 5,
+        "rate": 1.0
+      },
+      "filter_compliance": {
+        "numerator": 0,
+        "denominator": 0,
+        "rate": null
+      },
+      "questions_needing_manual_evidence_review": [],
+      "search_total_seconds": 0.148,
+      "average_search_seconds_per_question": 0.029514,
+      "stored_vectors_used": 171
+    },
+    "B": {
+      "questions": 5,
+      "hit_at_1_strict": {
+        "numerator": 2,
+        "denominator": 5,
+        "rate": 0.4
+      },
+      "evidence_hit_at_3_strict": {
+        "numerator": 4,
+        "denominator": 5,
+        "rate": 0.8
+      },
+      "filter_compliance": {
+        "numerator": 0,
+        "denominator": 0,
+        "rate": null
+      },
+      "questions_needing_manual_evidence_review": [
+        "Q020"
+      ],
+      "search_total_seconds": 0.126,
+      "average_search_seconds_per_question": 0.025166,
+      "stored_vectors_used": 162
+    },
+    "C": {
+      "questions": 5,
+      "hit_at_1_strict": {
+        "numerator": 3,
+        "denominator": 5,
+        "rate": 0.6
+      },
+      "evidence_hit_at_3_strict": {
+        "numerator": 4,
+        "denominator": 5,
+        "rate": 0.8
+      },
+      "filter_compliance": {
+        "numerator": 1,
+        "denominator": 1,
+        "rate": 1.0
+      },
+      "questions_needing_manual_evidence_review": [
+        "Q020"
+      ],
+      "search_total_seconds": 0.117,
+      "average_search_seconds_per_question": 0.023364,
+      "stored_vectors_used": 162
+    }
+  },
+  "metric_note": "Strict automatic hits require a single chunk with full gold evidence and matching source/page. Manual equivalent-evidence review and audit are still required."
+}

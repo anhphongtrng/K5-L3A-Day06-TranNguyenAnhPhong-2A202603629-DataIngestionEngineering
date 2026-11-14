@@ -1,0 +1,189 @@
+{
+  "query": "What is an inverse function?",
+  "A": [
+    {
+      "chunk_id": "openstax_calculus_v1_p0073_s1_fixed_0000",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 73,
+      "text": "1.4 Inverse Functions \nLearning Objectives \n1.4.1 Determine the conditions for when a function has an inverse. \n1.4.2 Use the horizontal line test to recognize when a function is one-to-one. \n1.4.3 Find the inverse of a given function. \n1.4.4 Draw the graph of an inverse function. \n1.4.5 Evaluate inverse trigonometric functions. \nAn inverse function reverses the operation done by a particular function. In other words, whatever a function does, the \ninverse function undoes it. In this section, we",
+      "metadata": {
+        "page": 73,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0073",
+        "section": "1.4",
+        "chunk_index": 0,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 73,
+        "section_title": "Inverse Functions",
+        "segment_index": 1,
+        "chunk_strategy": "fixed"
+      },
+      "score": 0.6830350945571021
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0073_s1_fixed_0001",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 73,
+      "text": "e \ninverse function undoes it. In this section, we define an inverse function formally and state the necessary conditions for \nan inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of \na function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse \ntrigonometric functions. \nExistence of an Inverse Function \nWe begin with an example. Given a function and an output we are often inter",
+      "metadata": {
+        "page": 73,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0073",
+        "section": "1.4",
+        "chunk_index": 1,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 73,
+        "section_title": "Inverse Functions",
+        "segment_index": 1,
+        "chunk_strategy": "fixed"
+      },
+      "score": 0.6737408638000488
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0074_s0_fixed_0001",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 74,
+      "text": "the \ndomain of and the domain of becomes the range of \nRecall that a function has exactly one output for each input. Therefore, to define an inverse function, we need to map \neach input to exactly one output. For example, let’s try to find the inverse function for Solving the equation \n for we arrive at the equation This equation does not describe as a function of because there are \ntwo solutions to this equation for every The problem with trying to find an inverse function for is that \ntwo inpu",
+      "metadata": {
+        "page": 74,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0074",
+        "section": "1.4",
+        "chunk_index": 1,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 74,
+        "section_title": "Inverse Functions",
+        "segment_index": 0,
+        "chunk_strategy": "fixed"
+      },
+      "score": 0.6664532621637962
+    }
+  ],
+  "B": [
+    {
+      "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0000",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 73,
+      "text": "1.4 Inverse Functions \nLearning Objectives \n1.4.1 Determine the conditions for when a function has an inverse. \n1.4.2 Use the horizontal line test to recognize when a function is one-to-one. \n1.4.3 Find the inverse of a given function. \n1.4.4 Draw the graph of an inverse function. \n1.4.5 Evaluate inverse trigonometric functions. \nAn inverse function reverses the operation done by a particular function. In other words, whatever a function does, the \ninverse function undoes it. In this section, we",
+      "metadata": {
+        "page": 73,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0073",
+        "section": "1.4",
+        "chunk_index": 0,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 73,
+        "section_title": "Inverse Functions",
+        "segment_index": 1,
+        "chunk_strategy": "paragraph"
+      },
+      "score": 0.6830350945571021
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0001",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 74,
+      "text": "of \nRecall that a function has exactly one output for each input. Therefore, to define an inverse function, we need to map \neach input to exactly one output. For example, let’s try to find the inverse function for Solving the equation \n for we arrive at the equation This equation does not describe as a function of because there are \ntwo solutions to this equation for every The problem with trying to find an inverse function for is that \ntwo inputs are sent to the same output for each output The",
+      "metadata": {
+        "page": 74,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0074",
+        "section": "1.4",
+        "chunk_index": 1,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 74,
+        "section_title": "Inverse Functions",
+        "segment_index": 0,
+        "chunk_strategy": "paragraph"
+      },
+      "score": 0.6705341731865248
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0001",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 73,
+      "text": "define an inverse function formally and state the necessary conditions for \nan inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of \na function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse \ntrigonometric functions. \nExistence of an Inverse Function \nWe begin with an example. Given a function and an output we are often interested in finding what value or \nvalues were mapped",
+      "metadata": {
+        "page": 73,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0073",
+        "section": "1.4",
+        "chunk_index": 1,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 73,
+        "section_title": "Inverse Functions",
+        "segment_index": 1,
+        "chunk_strategy": "paragraph"
+      },
+      "score": 0.6691581010818481
+    }
+  ],
+  "C_section_1_4": [
+    {
+      "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0000",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 73,
+      "text": "1.4 Inverse Functions \nLearning Objectives \n1.4.1 Determine the conditions for when a function has an inverse. \n1.4.2 Use the horizontal line test to recognize when a function is one-to-one. \n1.4.3 Find the inverse of a given function. \n1.4.4 Draw the graph of an inverse function. \n1.4.5 Evaluate inverse trigonometric functions. \nAn inverse function reverses the operation done by a particular function. In other words, whatever a function does, the \ninverse function undoes it. In this section, we",
+      "metadata": {
+        "page": 73,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0073",
+        "section": "1.4",
+        "chunk_index": 0,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 73,
+        "section_title": "Inverse Functions",
+        "segment_index": 1,
+        "chunk_strategy": "paragraph"
+      },
+      "score": 0.6830350945571021
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0001",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 74,
+      "text": "of \nRecall that a function has exactly one output for each input. Therefore, to define an inverse function, we need to map \neach input to exactly one output. For example, let’s try to find the inverse function for Solving the equation \n for we arrive at the equation This equation does not describe as a function of because there are \ntwo solutions to this equation for every The problem with trying to find an inverse function for is that \ntwo inputs are sent to the same output for each output The",
+      "metadata": {
+        "page": 74,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0074",
+        "section": "1.4",
+        "chunk_index": 1,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 74,
+        "section_title": "Inverse Functions",
+        "segment_index": 0,
+        "chunk_strategy": "paragraph"
+      },
+      "score": 0.6705341731865248
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0001",
+      "document_id": "openstax_calculus_v1",
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "page": 73,
+      "text": "define an inverse function formally and state the necessary conditions for \nan inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of \na function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse \ntrigonometric functions. \nExistence of an Inverse Function \nWe begin with an example. Given a function and an output we are often interested in finding what value or \nvalues were mapped",
+      "metadata": {
+        "page": 73,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page_id": "openstax_calculus_v1_p0073",
+        "section": "1.4",
+        "chunk_index": 1,
+        "document_id": "openstax_calculus_v1",
+        "physical_page": 73,
+        "section_title": "Inverse Functions",
+        "segment_index": 1,
+        "chunk_strategy": "paragraph"
+      },
+      "score": 0.6691581010818481
+    }
+  ]
+}

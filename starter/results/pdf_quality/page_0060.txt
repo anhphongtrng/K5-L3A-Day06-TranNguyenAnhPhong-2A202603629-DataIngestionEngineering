@@ -1,0 +1,91 @@
+104 . [T] Total online shopping 
+during the Christmas 
+holidays has increased 
+dramatically during the 
+past 5 years. In 2012 
+ total online 
+holiday sales were $42.3 
+billion, whereas in 2013 
+they were $48.1 billion. 
+a. Find a linear function S 
+that estimates the 
+total online holiday 
+sales in the year t. 
+b. Interpret the slope of 
+the graph of S. 
+c. Use part a. to predict 
+the year when online 
+shopping during 
+Christmas will reach 
+$60 billion. 
+ 105 . [T] A family bakery makes 
+cupcakes and sells them 
+at local outdoor festivals. 
+For a music festival, there 
+is a fixed cost of $125 to 
+set up a cupcake stand. 
+The owner estimates that 
+it costs $0.75 to make 
+each cupcake. The owner 
+is interested in 
+determining the total cost 
+ as a function of 
+number of cupcakes 
+made. 
+a. Find a linear function 
+that relates cost C to x, 
+the number of 
+cupcakes made. 
+b. Find the cost to bake 
+160 cupcakes. 
+c. If the owner sells the 
+cupcakes for $1.50 
+apiece, how many 
+cupcakes does she 
+need to sell to start 
+making profit? (Hint: 
+Use the INTERSECTION 
+function on a 
+calculator to find this 
+number.) 
+ 106 . [T] A house purchased for 
+$250,000 is expected to 
+be worth twice its 
+purchase price in 18 
+years. 
+a. Find a linear function 
+that models the price 
+P of the house versus 
+the number of years t 
+since the original 
+purchase. 
+b. Interpret the slope of 
+the graph of P. 
+c. Find the price of the 
+house 15 years from 
+when it was originally 
+purchased. 
+107 . [T] A car was purchased 
+for $26,000. The value of 
+the car depreciates by 
+$1500 per year. 
+a. Find a linear function 
+that models the value 
+V of the car after t 
+years. 
+b. Find and interpret 
+ 108 . [T] A condominium in an 
+upscale part of the city 
+was purchased for 
+$432,000. In 35 years it is 
+worth $60,500. Find the 
+rate of depreciation. 
+ 109 . [T] The total cost C to 
+produce a certain item is 
+modeled by the function 
+where x is the number of 
+items produced. 
+Determine the cost to 
+produce 175 items. 
+52 1 • Functions and Graphs
+Access for free at openstax.org

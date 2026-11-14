@@ -1,0 +1,20 @@
+Figure 1.47 Graphs of are depicted for 
+Before solving some equations involving exponential and logarithmic functions, let’s review the basic properties of 
+logarithms. 
+Rule: Properties of Logarithms 
+If and is any real number, then 
+EXAMPLE 1.36 
+Solving Equations Involving Exponential Functions 
+Solve each of the following equations for 
+a. 
+b. 
+Solution 
+a. Applying the natural logarithm function to both sides of the equation, we have 
+Using the power property of logarithms, 
+Therefore, 
+b. Multiplying both sides of the equation by we arrive at the equation 
+Rewriting this equation as 
+we can then rewrite it as a quadratic equation in 
+Now we can solve the quadratic equation. Factoring this equation, we obtain 
+86 1 • Functions and Graphs
+Access for free at openstax.org

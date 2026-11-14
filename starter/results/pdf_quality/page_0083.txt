@@ -1,0 +1,28 @@
+Solution 
+a. Evaluating is equivalent to finding the angle such that and The 
+angle satisfies these two conditions. Therefore, 
+b. First we use the fact that Then Therefore, 
+c. To evaluate first use the fact that Then we need to find the angle such 
+that and Since satisfies both these conditions, we have 
+d. Since we need to evaluate That is, we need to find the angle such that 
+ and Since satisfies both these conditions, we can conclude that 
+STUDENT PROJECT 
+The Maximum Value of a Function 
+In many areas of science, engineering, and mathematics, it is useful to know the maximum value a function can 
+obtain, even if we don’t know its exact value at a given instant. For instance, if we have a function describing the 
+strength of a roof beam, we would want to know the maximum weight the beam can support without breaking. If we 
+have a function that describes the speed of a train, we would want to know its maximum speed before it jumps off 
+the rails. Safe design often depends on knowing maximum values. 
+This project describes a simple example of a function with a maximum value that depends on two equation 
+coefficients. We will see that maximum values can depend on several factors other than the independent variable x. 
+1. Consider the graph in Figure 1.42 of the function Describe its overall shape. Is it periodic? How 
+do you know? 
+Figure 1.42 The graph of 
+Using a graphing calculator or other graphing device, estimate the - and -values of the maximum point for the 
+graph (the first such point where x > 0). It may be helpful to express the -value as a multiple of π. 
+2. Now consider other graphs of the form for various values of A and B. Sketch the graph 
+when A = 2 and B = 1, and find the - and y-values for the maximum point. (Remember to express the x-value as 
+a multiple of π, if possible.) Has it moved? 
+3. Repeat for A = 1, B = 2. Is there any relationship to what you found in part (2)? 
+4. Complete the following table, adding a few choices of your own for A and B: 
+1.4 • Inverse Functions 75

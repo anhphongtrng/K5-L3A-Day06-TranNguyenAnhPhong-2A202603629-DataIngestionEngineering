@@ -1,0 +1,28 @@
+Therefore, the solutions satisfy and Taking the natural logarithm of both sides gives us the solutions 
+ 1.30 Solve 
+EXAMPLE 1.37 
+Solving Equations Involving Logarithmic Functions 
+Solve each of the following equations for 
+a. 
+b. 
+c. 
+Solution 
+a. By the definition of the natural logarithm function, 
+Therefore, the solution is 
+b. Using the product and power properties of logarithmic functions, rewrite the left-hand side of the equation as 
+Therefore, the equation can be rewritten as 
+The solution is 
+c. Using the power property of logarithmic functions, we can rewrite the equation as 
+Using the quotient property, this becomes 
+Therefore, which implies We should then check for any extraneous solutions. 
+ 1.31 Solve 
+When evaluating a logarithmic function with a calculator, you may have noticed that the only options are or log, 
+called the common logarithm, or ln, which is the natural logarithm. However, exponential functions and logarithm 
+functions can be expressed in terms of any desired base If you need to use a calculator to evaluate an expression with 
+a different base, you can apply the change-of-base formulas first. Using this change of base, we typically write a given 
+exponential or logarithmic function in terms of the natural exponential and natural logarithmic functions. 
+Rule: Change-of-Base Formulas 
+Let and 
+1. for any real number 
+If this equation reduces to 
+1.5 • Exponential and Logarithmic Functions 87

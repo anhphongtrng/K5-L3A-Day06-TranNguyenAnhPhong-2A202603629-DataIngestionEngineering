@@ -1,0 +1,10 @@
+c. An angle Therefore, this angle corresponds to more than one revolution, as shown. Knowing 
+the fact that an angle of corresponds to the point we can conclude that 
+ 1.18 Evaluate and 
+As mentioned earlier, the ratios of the side lengths of a right triangle can be expressed in terms of the trigonometric 
+functions evaluated at either of the acute angles of the triangle. Let be one of the acute angles. Let be the length of 
+the adjacent leg, be the length of the opposite leg, and be the length of the hypotenuse. By inscribing the triangle 
+into a circle of radius as shown in Figure 1.33, we see that and satisfy the following relationships with 
+Figure 1.33 By inscribing a right triangle in a circle, we can express the ratios of the side lengths in terms of the 
+trigonometric functions evaluated at 
+1.3 • Trigonometric Functions 57

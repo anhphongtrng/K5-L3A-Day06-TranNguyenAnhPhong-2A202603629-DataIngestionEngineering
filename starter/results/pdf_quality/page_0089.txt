@@ -1,0 +1,25 @@
+Figure 1.43 Both and approach infinity as ∞ but grows more rapidly than As ∞ ∞
+whereas 
+Evaluating Exponential Functions 
+Recall the properties of exponents: If is a positive integer, then we define (with factors of If is a 
+negative integer, then for some positive integer and we define Also, is defined to be If 
+ is a rational number, then where and are integers and For example, 
+However, how is defined if is an irrational number? For example, what do we mean by This is too complex a 
+question for us to answer fully right now; however, we can make an approximation. In Table 1.11, we list some rational 
+numbers approaching and the values of for each rational number are presented as well. We claim that if we 
+choose rational numbers getting closer and closer to the values of get closer and closer to some number 
+We define that number to be 
+Table 1.11 Values of for a List of Rational Numbers Approximating 
+EXAMPLE 1.33 
+Bacterial Growth 
+Suppose a particular population of bacteria is known to double in size every hours. If a culture starts with 
+bacteria, the number of bacteria after hours is The number of bacteria after hours is 
+ In general, the number of bacteria after hours is Letting we 
+see that the number of bacteria after hours is Find the number of bacteria after hours, hours, 
+and hours. 
+Solution 
+The number of bacteria after 6 hours is given by bacteria. The number of bacteria after 
+hours is given by bacteria. The number of bacteria after hours is given by 
+ bacteria. 
+ 1.27 Given the exponential function evaluate and 
+1.5 • Exponential and Logarithmic Functions 81

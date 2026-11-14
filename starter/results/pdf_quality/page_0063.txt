@@ -1,0 +1,14 @@
+Figure 1.31 The angle is in standard position. The values of the trigonometric functions for are defined in terms of 
+the coordinates and 
+Definition 
+Let be a point on the unit circle centered at the origin Let be an angle with an initial side along the 
+positive -axis and a terminal side given by the line segment The trigonometric functions are then defined as 
+(1.9) 
+If and are undefined. If then and are undefined. 
+We can see that for a point on a circle of radius with a corresponding angle the coordinates and satisfy 
+The values of the other trigonometric functions can be expressed in terms of and (Figure 1.32). 
+Figure 1.32 For a point on a circle of radius the coordinates and satisfy and 
+Table 1.9 shows the values of sine and cosine at the major angles in the first quadrant. From this table, we can determine 
+the values of sine and cosine at the corresponding angles in the other quadrants. The values of the other trigonometric 
+functions are calculated easily from the values of and 
+1.3 • Trigonometric Functions 55

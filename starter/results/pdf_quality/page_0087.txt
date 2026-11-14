@@ -1,0 +1,108 @@
+219 . [T] The cost to remove a 
+toxin from a lake is 
+modeled by the function 
+where is the cost (in 
+thousands of dollars) and 
+ is the amount of toxin in 
+a small lake (measured in 
+parts per billion [ppb]). 
+This model is valid only 
+when the amount of toxin 
+is less than 85 ppb. 
+a. Find the cost to 
+remove 25 ppb, 40 
+ppb, and 50 ppb of the 
+toxin from the lake. 
+b. Find the inverse 
+function. c. Use part b. 
+to determine how 
+much of the toxin is 
+removed for $50,000. 
+ 220 . [T] A race car is 
+accelerating at a velocity 
+given by 
+ where v 
+is the velocity (in feet per 
+second) at time t. 
+a. Find the velocity of the 
+car at 10 sec. 
+b. Find the inverse 
+function. 
+c. Use part b. to 
+determine how long it 
+takes for the car to 
+reach a speed of 150 
+ft/sec. 
+ 221 . [T] An airplane’s Mach number M is 
+the ratio of its speed to the speed of 
+sound. When a plane is flying at a 
+constant altitude, then its Mach angle 
+is given by 
+Find the Mach angle (to the nearest 
+degree) for the following Mach 
+numbers. 
+a. 
+b. 
+c. 
+222 . [T] Using 
+ find the 
+Mach number M for the 
+following angles. 
+a. 
+b. 
+c. 
+ 223 . [T] The average temperature (in 
+degrees Celsius) of a city in the 
+northern United States can be 
+modeled by the function 
+where is time in months and 
+ corresponds to 
+January 1. Determine the day(s) 
+(month and day) when the 
+average temperature is 
+Use the integer portion of your 
+answer(s) as the month and 
+calculate the day of the month 
+from the decimal portion. 
+ 224 . [T] The depth (in feet) of 
+water at a dock changes 
+with the rise and fall of 
+tides. It is modeled by the 
+function 
+where is the number of 
+hours after midnight. 
+Determine the first time 
+after midnight when the 
+depth is 11.75 ft. 
+225 . [T] An object moving in 
+simple harmonic motion 
+is modeled by the 
+function 
+where is measured in 
+inches and is measured 
+in seconds. Determine the 
+first time when the 
+distance moved is 4.5 in. 
+ 226 . [T] A local art gallery has a 
+portrait 3 ft in height that 
+is hung 2.5 ft above the 
+eye level of an average 
+person. The viewing angle 
+ can be modeled by the 
+function 
+where is the distance (in 
+feet) from the portrait. 
+Find the viewing angle 
+when a person is 4 ft from 
+the portrait. 
+ 227 . [T] Use a calculator to 
+evaluate 
+and 
+Explain the results of 
+each. 
+228 . [T] Use a calculator to 
+evaluate 
+and 
+Explain the results of 
+each. 
+1.4 • Inverse Functions 79

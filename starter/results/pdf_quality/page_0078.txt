@@ -1,0 +1,12 @@
+Figure 1.39 (a) The graph of this function shows point on the graph of (b) Since is on the graph of the 
+point is on the graph of The graph of is a reflection of the graph of about the line 
+EXAMPLE 1.30 
+Sketching Graphs of Inverse Functions 
+For the graph of in the following image, sketch a graph of by sketching the line and using symmetry. 
+Identify the domain and range of 
+Solution 
+Reflect the graph about the line The domain of is ∞ The range of is ∞ By using the 
+preceding strategy for finding inverse functions, we can verify that the inverse function is as shown in 
+the graph. 
+70 1 • Functions and Graphs
+Access for free at openstax.org

@@ -1,0 +1,28 @@
+a. 
+b. 
+c. 
+Solution 
+a. Since this function involves basic algebraic operations only, it is an algebraic function. 
+b. This function cannot be written as a formula that involves only basic algebraic operations, so it is transcendental. 
+(Note that algebraic functions can only have powers that are rational numbers.) 
+c. As in part b., this function cannot be written using a formula involving basic algebraic operations only; therefore, 
+this function is transcendental. 
+ 1.13 Is an algebraic or a transcendental function? 
+Piecewise-Defined Functions 
+Sometimes a function is defined by different formulas on different parts of its domain. A function with this property is 
+known as a piecewise-defined function. The absolute value function is an example of a piecewise-defined function 
+because the formula changes with the sign of 
+Other piecewise-defined functions may be represented by completely different formulas, depending on the part of the 
+domain in which a point falls. To graph a piecewise-defined function, we graph each part of the function in its respective 
+domain, on the same coordinate system. If the formula for a function is different for and we need to pay 
+special attention to what happens at when we graph the function. Sometimes the graph needs to include an open 
+or closed circle to indicate the value of the function at We examine this in the next example. 
+EXAMPLE 1.19 
+Graphing a Piecewise-Defined Function 
+Sketch a graph of the following piecewise-defined function: 
+Solution 
+Graph the linear function on the interval and graph the quadratic function on the interval 
+∞ Since the value of the function at is given by the formula we see that To 
+indicate this on the graph, we draw a closed circle at the point The value of the function is given by 
+for all but not at To indicate this on the graph, we draw an open circle at 
+1.2 • Basic Classes of Functions 43

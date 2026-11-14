@@ -1,0 +1,29 @@
+EXAMPLE 1.24 
+Constructing a Wooden Ramp 
+A wooden ramp is to be built with one end on the ground and the other end at the top of a short staircase. If the top of 
+the staircase is ft from the ground and the angle between the ground and the ramp is to be how long does the 
+ramp need to be? 
+Solution 
+Let denote the length of the ramp. In the following image, we see that needs to satisfy the equation 
+Solving this equation for we see that ft. 
+ 1.19 A house painter wants to lean a -ft ladder against a house. If the angle between the base of the ladder 
+and the ground is to be how far from the house should she place the base of the ladder? 
+Trigonometric Identities 
+A trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the 
+functions are defined. We can use the identities to help us solve or simplify equations. The main trigonometric identities 
+are listed next. 
+Rule: Trigonometric Identities 
+Reciprocal identities 
+Pythagorean identities 
+Addition and subtraction formulas 
+Double-angle formulas 
+EXAMPLE 1.25 
+Solving Trigonometric Equations 
+For each of the following equations, use a trigonometric identity to find all solutions. 
+a. 
+b. 
+Solution 
+a. Using the double-angle formula for we see that is a solution of 
+if and only if 
+58 1 • Functions and Graphs
+Access for free at openstax.org

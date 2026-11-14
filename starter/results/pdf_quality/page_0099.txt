@@ -1,0 +1,10 @@
+This identity is the analog of the trigonometric identity Here, given a value the point 
+ lies on the unit hyperbola (Figure 1.50). 
+Figure 1.50 The unit hyperbola 
+Graphs of Hyperbolic Functions 
+To graph and we make use of the fact that both functions approach as ∞ since as 
+∞ As ∞ approaches whereas approaches Therefore, using the graphs of 
+ and as guides, we graph and To graph we use the fact that 
+ for all as ∞ and as ∞ The graphs of the other 
+three hyperbolic functions can be sketched using the graphs of and (Figure 1.51). 
+1.5 • Exponential and Logarithmic Functions 91

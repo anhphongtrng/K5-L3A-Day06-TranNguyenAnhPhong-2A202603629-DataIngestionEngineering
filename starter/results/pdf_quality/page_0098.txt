@@ -1,0 +1,18 @@
+Figure 1.49 The shape of a strand of silk in a spider’s web can be described in terms of a hyperbolic function. The same 
+shape applies to a chain or cable hanging from two supports with only its own weight. (credit: “Mtpaley”, Wikimedia 
+Commons) 
+Definition 
+Hyperbolic cosine 
+Hyperbolic sine 
+Hyperbolic tangent 
+Hyperbolic cosecant 
+Hyperbolic secant 
+Hyperbolic cotangent 
+The name cosh rhymes with “gosh,” whereas the name sinh is pronounced “cinch.” Tanh, sech, csch, and coth are 
+pronounced “tanch,” “seech,” “coseech,” and “cotanch,” respectively. 
+Using the definition of and principles of physics, it can be shown that the height of a hanging chain, such as the 
+one in Figure 1.49, can be described by the function for certain constants and 
+But why are these functions called hyperbolic functions? To answer this question, consider the quantity 
+Using the definition of and we see that 
+90 1 • Functions and Graphs
+Access for free at openstax.org

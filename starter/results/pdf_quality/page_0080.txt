@@ -1,0 +1,17 @@
+b. On the interval ∞ is one-to-one. 
+The domain and range of are given by the range and domain of respectively. Therefore, the domain of is 
+∞ and the range of is ∞ To find a formula for solve the equation for If 
+ then Since we are restricting the domain to the interval where we need 
+ Therefore, Interchanging and we write and conclude that 
+ 1.26 Consider restricted to the domain ∞ Verify that is one-to-one on this domain. 
+Determine the domain and range of the inverse of and find a formula for 
+Inverse Trigonometric Functions 
+The six basic trigonometric functions are periodic, and therefore they are not one-to-one. However, if we restrict the 
+domain of a trigonometric function to an interval where it is one-to-one, we can define its inverse. Consider the sine 
+function (Figure 1.34). The sine function is one-to-one on an infinite number of intervals, but the standard convention is 
+to restrict the domain to the interval By doing so, we define the inverse sine function on the domain 
+such that for any in the interval the inverse sine function tells us which angle in the interval satisfies 
+ Similarly, we can restrict the domains of the other trigonometric functions to define inverse trigonometric 
+functions, which are functions that tell us which angle in a certain interval has a specified trigonometric value. 
+72 1 • Functions and Graphs
+Access for free at openstax.org

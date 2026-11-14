@@ -1,0 +1,8 @@
+Figure 1.38 (a) The function is not one-to-one because it fails the horizontal line test. (b) The function 
+ is one-to-one because it passes the horizontal line test. 
+EXAMPLE 1.28 
+Determining Whether a Function Is One-to-One 
+For each of the following functions, use the horizontal line test to determine whether it is one-to-one. 
+a. 
+b. 
+1.4 • Inverse Functions 67
